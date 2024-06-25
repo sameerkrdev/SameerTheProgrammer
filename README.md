@@ -39,6 +39,7 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on X.com (Twitter) – [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
+
 <br> 
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Some random quotes**
@@ -114,7 +115,6 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Github Stats
 
 <p align="center">
-  <!--- stats (start) -->
 
 <details>
   <summary><h3>💻 GitHub Profile Stats</h3></summary>
@@ -137,9 +137,6 @@
   </p>
 </details>
 
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
@@ -147,11 +144,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameertheprogrammer&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 	
 </details>
-<!--- trophy (end) -->
 
 </p>        
 
-<!--h1 without bottom border-->
 
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
@@ -199,16 +194,11 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-  <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-  <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/sameer-the-programmer/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://twitter.com/Sameer_kumardev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
 
 Last Edited on: 25/06/2024
