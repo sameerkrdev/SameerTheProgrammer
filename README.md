@@ -37,7 +37,7 @@
 
 - 📫 Feel free to reach me out `2006sameer2009@gmail.com`
 
-- 🏠 Don't hesitate to drop me a **👋** on X.com (Twitter) – [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on X.com (Twitter) – [Sameer_kumardev](https://x.com/Sameer_kumardev) my username!
 <!--Intro end-->
 
 <br> 
