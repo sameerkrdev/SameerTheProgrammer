@@ -53,14 +53,63 @@
     </a>
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Github Stats
-<!--tech stack icons-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 
+## 🛠️ Technologies That I Know👨🏻‍💻
+### Backend languages:
+&emsp;
+![Nodejs](https://img.shields.io/badge/-Node.Js-000?&logo=nodedotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-000?&logo=express&logoColor=007ACC)
+![NestJs](https://img.shields.io/badge/-NestJs-000?&logo=nestjs&logoColor=007ACC)
+![Websocket&socket.io](https://img.shields.io/badge/-Web%20socket%20/%20socket.io-000?&logo=socketdotio)
+
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Material UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Ant Design](https://img.shields.io/badge/-Ant--Design-000?&logo=antdesign)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwindcss)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+
+### DevOps:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
+
+### Similar with
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Solidity](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Rust](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+<br><br>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> Github Stats
 
 <p align="center">
   <!--- stats (start) -->
