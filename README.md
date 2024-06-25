@@ -1,16 +1,15 @@
 
-<h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Sameer Kumar </b></h1>
-<!--  -->
+<h1 style="display: inline-block" align="center">
+	<b>
+		Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Sameer Kumar 
+	</b> 
+	<!--horizontal divider(gradiant)-->
+	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;Self-Taught+Full+Stack+Developer,;Machine+Learning+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
-</a>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile;Self-Taught+Full+Stack+Developer,;Machine+Learning+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
 </p>
-
-<br>
-
 
 <!--- snake -->
 <div align="center">
@@ -35,15 +34,17 @@
 
 - 🔭 I’m currently working on **Personal called Microservice Ecommerce site**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- :student: I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in Artificial intelligence. So,I'm learning **Machine Learning**
+- :nerd_face: I've keen interest in Artificial intelligence. So,I'm learning **Machine Learning**
 
 - 💬 Ask me about **React, Nextjs, Nodejs, Typescript, MongoDB, Postgres**
+  
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1YjYjkSj5esj9cUEgIGjIfWzvEK1sA7Jo/view?usp=drive_link).
 
 - 📫 Feel free to reach me out **2006sameer2009@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Instagram or X.com (Twitter) –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on X.com (Twitter) –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 
