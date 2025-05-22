@@ -153,7 +153,7 @@
 
 ----
 	
-<div>
+<!-- <div>
   <p align="center">
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=sameertheprogrammer&repo=MERN-mecom-auth-service&theme=tokyonight" alt="GitHub Stats" />
@@ -179,6 +179,7 @@
 	
   </p>
 </div>
+-->
 </details>
 
 </br></br>
