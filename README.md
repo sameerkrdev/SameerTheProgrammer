@@ -35,9 +35,9 @@
   
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1YjYjkSj5esj9cUEgIGjIfWzvEK1sA7Jo/view?usp=drive_link).
 
-- 📫 Feel free to reach me out `2006sameer2009@gmail.com`
+- 📫 Feel free to reach me out `sameerkr.dev@gmail.com`
 
-- 🏠 Don't hesitate to drop me a **👋** on X.com (Twitter) – [Sameer_kumardev](https://x.com/Sameer_kumardev) my username!
+- 🏠 Don't hesitate to drop me a **👋** on X.com (Twitter) – [sameerkrdev](https://x.com/sameerkrdev) my username!
 <!--Intro end-->
 
 <br> 
