@@ -11,7 +11,7 @@
 <br>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=sameertheprogrammer&label=Profile%20views&color=0047AB&style=plastic?" alt="sameertheprogrammer" height="25px" width="160px"/> 
+    <img src="https://komarev.com/ghpvc/?username=sameerkrdev&label=Profile%20views&color=0047AB&style=plastic?" alt="sameerkrdev" height="25px" width="160px"/> 
 </p>
     
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
