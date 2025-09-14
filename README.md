@@ -27,11 +27,11 @@
 
 - 🔭 I’m  **Self Taught Full Stack Developer**
 
-- 🔭 I’m currently Building **Personal project called Microservice Ecommerce site**
+- 🔭 I’m currently Building **Stock Exchange Platform and All in one Trading platform**
 
 - :student: I've keen interest in Artificial intelligence. So, I'm learning **Machine Learning**
 
-- 💬 Ask me about `React`, `Nextjs`, `Nodejs`, `Typescript`, `MongoDB`, `Postgres`
+- 💬 Ask me about `React`, `Nextjs`, `Nodejs`, `Typescript`, `MongoDB`, `Postgres`, `Clickhouse`, `Kafka`, `RabbitMQ` 
   
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1YjYjkSj5esj9cUEgIGjIfWzvEK1sA7Jo/view?usp=drive_link).
 
@@ -65,32 +65,27 @@
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Material UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Ant Design](https://img.shields.io/badge/-Ant--Design-000?&logo=antdesign)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=tailwindcss)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-000?&logo=Clickhouse)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 ### Misc tools:
 &emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ### DevOps:
 &emsp;
@@ -99,6 +94,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
+![GIthub Action](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube)
 ![Trivy](https://img.shields.io/badge/-Trivy-000?&logo=trivy)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
@@ -107,8 +103,6 @@
 ### Similar with
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 
 <br><br>
 <!-- Connect with me -->
@@ -121,8 +115,8 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/sameer-the-programmer/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://twitter.com/Sameer_kumardev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+  <a href="https://www.linkedin.com/in/sameerkrdev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://twitter.com/sameerkrdev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
 
 <!--horizontal divider(gradiant)-->
