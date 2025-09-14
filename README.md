@@ -94,7 +94,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=jenkins)
-![GIthub Action](https://img.shields.io/badge/-Github-000?&logo=Github)
+![Github Action](https://img.shields.io/badge/-Github-000?&logo=Github-Action)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=sonarqube)
 ![Trivy](https://img.shields.io/badge/-Trivy-000?&logo=trivy)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
